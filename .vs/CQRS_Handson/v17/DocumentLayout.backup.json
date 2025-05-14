@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|c:\\labs\\cqrs-handson\\cqrs_handson\\cqrs_read_infrastructure\\persistence\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|solutionrelative:cqrs_read_infrastructure\\persistence\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|c:\\labs\\cqrs-handson\\cqrs_handson\\cqrs_read_infrastructure\\persistence\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|solutionrelative:cqrs_read_infrastructure\\persistence\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|c:\\labs\\cqrs-handson\\cqrs_handson\\cqrs_read_infrastructure\\persistence\\people\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|solutionrelative:cqrs_read_infrastructure\\persistence\\people\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|c:\\labs\\cqrs-handson\\cqrs_handson\\cqrs_read_infrastructure\\persistence\\people\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|solutionrelative:cqrs_read_infrastructure\\persistence\\people\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|c:\\labs\\cqrs-handson\\cqrs_handson\\cqrs_read_infrastructure\\persistence\\people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|solutionrelative:cqrs_read_infrastructure\\persistence\\people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|c:\\labs\\cqrs-handson\\cqrs_handson\\cqrs_read_infrastructure\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|solutionrelative:cqrs_read_infrastructure\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\People\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "CQRS_read_infrastructure\\Persistence\\People\\PersonRepository.cs",
+              "ToolTip": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\People\\PersonRepository.cs",
+              "RelativeToolTip": "CQRS_read_infrastructure\\Persistence\\People\\PersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:18:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\People\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "CQRS_read_infrastructure\\Persistence\\People\\IPersonRepository.cs",
+              "ToolTip": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\People\\IPersonRepository.cs",
+              "RelativeToolTip": "CQRS_read_infrastructure\\Persistence\\People\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:17:45.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\People\\Person.cs",
+              "RelativeDocumentMoniker": "CQRS_read_infrastructure\\Persistence\\People\\Person.cs",
+              "ToolTip": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\People\\Person.cs",
+              "RelativeToolTip": "CQRS_read_infrastructure\\Persistence\\People\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:05:29.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\Context.cs",
+              "RelativeDocumentMoniker": "CQRS_read_infrastructure\\Persistence\\Context.cs",
+              "ToolTip": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\Context.cs",
+              "RelativeToolTip": "CQRS_read_infrastructure\\Persistence\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:03:51.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\IContext.cs",
+              "RelativeDocumentMoniker": "CQRS_read_infrastructure\\Persistence\\IContext.cs",
+              "ToolTip": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\IContext.cs",
+              "RelativeToolTip": "CQRS_read_infrastructure\\Persistence\\IContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:03:26.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\IRepository.cs",
               "RelativeDocumentMoniker": "CQRS_read_infrastructure\\Persistence\\IRepository.cs",
