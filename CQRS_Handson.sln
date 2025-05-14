@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationCQRS", "WebApplicationCQRS\WebApplicationCQRS.csproj", "{324CAE15-C648-4F9E-BCB7-C214CFB223F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Read", "Read", "{358F33B3-E92D-4F38-B0BA-881AB7D7FCF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Write", "Write", "{BD859380-8880-4228-ABFE-7985480AF4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_read_infrastructure", "CQRS_read_infrastructure\CQRS_read_infrastructure.csproj", "{969038C2-8301-4A93-9007-688C26B47F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_read_Application", "CQRS_read_Application\CQRS_read_Application.csproj", "{43A4823D-6092-4B47-870A-F13211B8C567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324CAE15-C648-4F9E-BCB7-C214CFB223F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324CAE15-C648-4F9E-BCB7-C214CFB223F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324CAE15-C648-4F9E-BCB7-C214CFB223F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324CAE15-C648-4F9E-BCB7-C214CFB223F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969038C2-8301-4A93-9007-688C26B47F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969038C2-8301-4A93-9007-688C26B47F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969038C2-8301-4A93-9007-688C26B47F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969038C2-8301-4A93-9007-688C26B47F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A4823D-6092-4B47-870A-F13211B8C567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A4823D-6092-4B47-870A-F13211B8C567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A4823D-6092-4B47-870A-F13211B8C567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A4823D-6092-4B47-870A-F13211B8C567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{969038C2-8301-4A93-9007-688C26B47F6E} = {358F33B3-E92D-4F38-B0BA-881AB7D7FCF1}
+		{43A4823D-6092-4B47-870A-F13211B8C567} = {358F33B3-E92D-4F38-B0BA-881AB7D7FCF1}
+	EndGlobalSection
+EndGlobal

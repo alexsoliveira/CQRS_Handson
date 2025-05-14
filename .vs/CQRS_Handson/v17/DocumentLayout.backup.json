@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|c:\\labs\\cqrs-handson\\cqrs_handson\\cqrs_read_infrastructure\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969038C2-8301-4A93-9007-688C26B47F6E}|CQRS_read_infrastructure\\CQRS_read_infrastructure.csproj|solutionrelative:cqrs_read_infrastructure\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\IRepository.cs",
+              "RelativeDocumentMoniker": "CQRS_read_infrastructure\\Persistence\\IRepository.cs",
+              "ToolTip": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\CQRS_read_infrastructure\\Persistence\\IRepository.cs",
+              "RelativeToolTip": "CQRS_read_infrastructure\\Persistence\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:48:48.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

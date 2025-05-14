@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPGrupDn0wo=",
+  "success": true,
+  "projectFilePath": "C:\\Labs\\CQRS-Handson\\CQRS_Handson\\WebApplicationCQRS\\WebApplicationCQRS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
