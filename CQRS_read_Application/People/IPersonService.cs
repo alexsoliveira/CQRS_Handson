@@ -1,6 +1,6 @@
-﻿using CQRS_read_infrastructure.Persistence.People;
+﻿using CQRS_Read_Infrastructure.Persistence.People;
 
-namespace CQRS_read_Application.People
+namespace CQRS_Read_Application.People
 {
     public interface IPersonService : IApplicationService<Person>
     {

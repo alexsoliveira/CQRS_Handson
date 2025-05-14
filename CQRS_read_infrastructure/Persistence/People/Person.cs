@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace CQRS_read_infrastructure.Persistence.People
+namespace CQRS_Read_Infrastructure.Persistence.People
 {
     [Flags]
     public enum PersonClass

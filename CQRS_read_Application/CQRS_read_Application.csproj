@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CQRS_read_infrastructure\CQRS_read_infrastructure.csproj" />
+    <ProjectReference Include="..\CQRS_read_infrastructure\CQRS_Read_Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

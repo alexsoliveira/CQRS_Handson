@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace CQRS_read_infrastructure.Persistence
+namespace CQRS_Read_Infrastructure.Persistence
 {
     public interface IRepository<T>
     {

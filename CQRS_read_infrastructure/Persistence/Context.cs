@@ -1,6 +1,6 @@
-﻿using CQRS_read_infrastructure.Persistence.People;
+﻿using CQRS_Read_Infrastructure.Persistence.People;
 
-namespace CQRS_read_infrastructure.Persistence
+namespace CQRS_Read_Infrastructure.Persistence
 {
     public class Context : IContext
     {

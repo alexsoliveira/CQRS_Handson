@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace CQRS_read_infrastructure.Persistence.People
+namespace CQRS_Read_Infrastructure.Persistence.People
 {
     public class PersonRepository : IPersonRepository
     {
