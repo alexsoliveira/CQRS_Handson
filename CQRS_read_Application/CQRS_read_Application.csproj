@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CQRS_read_infrastructure\CQRS_read_infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
