@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\" />
-    <Folder Include="People\" />
+    <ProjectReference Include="..\CQRS_Read_Application\CQRS_Read_Application.csproj" />
   </ItemGroup>
 
 </Project>

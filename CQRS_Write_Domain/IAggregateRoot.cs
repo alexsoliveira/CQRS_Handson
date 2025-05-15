@@ -2,12 +2,12 @@
 
 namespace CQRS_Write_Domain
 {
-    public interface IAggregateRoot<T> : IggregateRoot
+    public interface IAggregateRoot<T> : IAggregateRoot
     {
         T Id { get; }
     }
 
-    public interface IggregateRoot
+    public interface IAggregateRoot
     {
         object GetId();
         int Version { get; }
