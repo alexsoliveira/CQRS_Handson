@@ -25,7 +25,7 @@
             this.ApplyChange(new PersonRenamedEvent(this.Id, name));
         }
 
-        public void Delete(string name)
+        public void Delete()
         {
             this.ApplyChange(new PersonDeletedEvent(this.Id));
         }

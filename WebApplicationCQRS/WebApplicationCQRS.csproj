@@ -12,4 +12,11 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CQRS_Read_Application\CQRS_Read_Application.csproj" />
+    <ProjectReference Include="..\CQRS_Write_Application\CQRS_Write_Application.csproj" />
+    <ProjectReference Include="..\CQRS_Write_Domain\CQRS_Write_Domain.csproj" />
+    <ProjectReference Include="..\CQRS_Write_Infrastructure\CQRS_Write_Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
